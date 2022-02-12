@@ -6,32 +6,29 @@ const Footer = () => {
 
                 <div className="footer-desc">
                     <img src="assets/images/footer-logo.png" className="footer-logo" />
-                        <p>Integer commodo congue justo non blandit. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus urna mauris, viverra.</p>
+                        <p>PartyVerse - AdventureVerse and InfluencerVerse, so stay tuned and get ready to have some unique fun.</p>
                 </div>
                 <div className="footer-links">
                     <h2>Buy Tokens</h2>
                     <ul>
-                        <li><a href="">link 1</a></li>
-                        <li><a href="">link 2</a></li>
-                        <li><a href="">link 3</a></li>
-                        <li><a href="">link 4</a></li>
-                        <li><a href="">link 5</a></li>
+                        <li><a href="">Decentralized Exchange</a></li>
+                        <li><a href="">Liquidity Pool</a></li>
+                        <li><a href="">Connect Wallet</a></li>
                     </ul>
                 </div>
                 <div className="footer-links">
                     <h2>NFTKart</h2>
                     <ul>
-                        <li><a href="">link 1</a></li>
-                        <li><a href="">link 2</a></li>
-                        <li><a href="">link 3</a></li>
-                        <li><a href="">link 4</a></li>
+                        <li><a href="">Explore Marketplace</a></li>
+                        <li><a href="">Create NFT</a></li>
+                        <li><a href="">Top Selling</a></li>
+                        <li><a href="">Popular Collections</a></li>
                     </ul>
                 </div>
                 <div className="footer-links">
                     <h2>Metaverse</h2>
                     <ul>
-                        <li><a href="">link 1</a></li>
-                        <li><a href="">link 2</a></li>
+                        <li><a href="">Coming Soon...</a></li>
                     </ul>
 
                     <select>

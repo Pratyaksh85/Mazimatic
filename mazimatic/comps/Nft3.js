@@ -5,7 +5,7 @@ const Nft3 = () => {
             <div className="nft-inner">
                 <div className="left">
                     <h1>Explore our NFT <br />marketplace - <br /><span>NFTKart</span></h1>
-                    <p>Proin sed magna sed orci consectetur fermentum vitae a eros. Donec pellentesque ornare quam, placerat lobortis leo aliquam non. Morbi efficitur sapien sit amet lacus convallis vulputate.</p>
+                    <p>Purchasing and selling NFTs has not been easier! NFTKart is your one-stop for trading NFTs. Check out the great collection we have and purchase the work you like.</p>
 
                     <br /><br />
                     <button className="blue-btn">Explore</button>
@@ -24,7 +24,9 @@ const Nft3 = () => {
                                         <img src="/assets/images/profile-1.png" className="profile-img" />
                                         <p className="p_name">Rua and Titch<br /><span>Adam Spizak</span></p>
                                     </div>
-                                    <p className="p_desc">Maecenas orci nisi, porttitor sit amet pretium quis, efficitur vel turpis. </p>
+                                    <p className="p_desc">AdventureVerse and InfluencerVerse, so stay tuned and get ready to have some unique fun.
+
+                                    </p>
                                 </div>
                                 <div className="card-bottom">
                                     <div className="left-div">
@@ -50,7 +52,9 @@ const Nft3 = () => {
                                         <img src="/assets/images/profile-3.png" className="profile-img" />
                                         <p className="p_name">Dial B for Br /ight<br /><span>toughtumble</span></p>
                                     </div>
-                                    <p className="p_desc">Maecenas orci nisi, porttitor sit amet pretium quis, efficitur vel turpis. </p>
+                                    <p className="p_desc">AdventureVerse and InfluencerVerse, so stay tuned and get ready to have some unique fun.
+
+                                    </p>
                                 </div>
                                 <div className="card-bottom">
                                     <div className="left-div">
@@ -88,7 +92,9 @@ const Nft3 = () => {
                                         <img src="/assets/images/profile-2.png" className="profile-img" />
                                         <p className="p_name">If animals had human jobs<br /><span>oiledsalsa</span></p>
                                     </div>
-                                    <p className="p_desc">Maecenas orci nisi, porttitor sit amet pretium quis, efficitur vel turpis. </p>
+                                    <p className="p_desc">AdventureVerse and InfluencerVerse, so stay tuned and get ready to have some unique fun.
+
+                                    </p>
                                 </div>
                                 <div className="card-bottom">
                                     <div className="left-div">
@@ -114,7 +120,9 @@ const Nft3 = () => {
                                         <img src="/assets/images/profile-4.png" className="profile-img" />
                                         <p className="p_name">Mom’s day out<br /><span>morningclank</span></p>
                                     </div>
-                                    <p className="p_desc">Maecenas orci nisi, porttitor sit amet pretium quis, efficitur vel turpis. </p>
+                                    <p className="p_desc">AdventureVerse and InfluencerVerse, so stay tuned and get ready to have some unique fun.
+
+                                    </p>
                                 </div>
                                 <div className="card-bottom">
                                     <div className="left-div">

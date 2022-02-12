@@ -21,11 +21,11 @@ const Team6 = () => {
                 </div>
                 <div className="right">
                     <h1>Meet the<br /><span>Team</span></h1>
-                    <p>Proin sed magna sed orci consectetur <br /> fermentum vitae a eros.</p>
+                    <p>Here's our team that created the fun and breathtaking Maziverse.</p>
 
                     {/* <br /><br />
                     <button className="blue-btn">Explore</button>
-                    <button className="grey-btn">CTA 2</button> */}
+                    <button className="grey-btn">Explore</button> */}
                 </div>
             </div>
             <div className="team-inner2">

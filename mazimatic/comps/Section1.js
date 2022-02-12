@@ -6,11 +6,11 @@ const Section1 = () => {
             <div className="banner-inner">
                 <div className="left">
                     <h1>Welcome to<br /><span>MaziMatic</span></h1>
-                    <p>Ras vitae varius turpis, sed congue orci. In vulputate ut massa fringilla vestibulum. Vivamus sit amet venenatis mi.</p>
+                    <p>A virtual world where users can own, build, play and monetize the experiences.</p>
 
                     <br /><br />
-                    <button className="blue-btn">CTA 1</button>
-                    <button className="grey-btn">CTA 2</button>
+                    <button className="blue-btn">Buy Tokens</button>
+                    <button className="grey-btn">Explore</button>
                     <br /><br /><br /><br />
 
                     <div style={{ display: "inline" }}>
@@ -20,14 +20,14 @@ const Section1 = () => {
                             <img src="/assets/images/img-1.png" className="small-img s-3" />
                         </div>
                         <div className="text-div">
-                            <p>23k+<br /><span>Lorem Ipsum</span></p>
+                            <p>23k+<br /><span>Users</span></p>
                         </div>
                     </div>
 
 
                 </div>
                 <div className="right">
-                    <img src="assets/images/main-banner.png" className="main-img" />
+                    <img src="/assets/images/3d-futuristic-woman-with-metaverse-vr-glasses 1.png" className="main-img" />
                 </div>
             </div>
 
