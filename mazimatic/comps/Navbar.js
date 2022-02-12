@@ -43,7 +43,7 @@ const Navbar = () => {
 
             </nav>
 
-            <hr />
+            {/* <hr /> */}
 
             {/* <nav class="navbar">
                 <div class="logo">MUO</div>
